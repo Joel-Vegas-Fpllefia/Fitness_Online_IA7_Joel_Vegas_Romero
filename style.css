@@ -1,0 +1,17 @@
+/* ESTILO NOMBRE EMPRESA */
+.empresa_text {
+  font-family: "Raleway";
+  color: #ffffff;
+}
+/* ESTILO LISTA MENU */
+.font_nav_menu {
+  font-family: "Raleway";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+.font_nav_menu:hover {
+  cursor: pointer;
+}
