@@ -15,3 +15,40 @@
 .font_nav_menu:hover {
   cursor: pointer;
 }
+/* Fondo Color Secciont Online Workout */
+.bg_purple {
+  background-color: #7036ba;
+}
+.header_online_workout {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-style: bold;
+  font-size: 40px;
+  line-height: 60px;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+.text_online_workout {
+  font-family: "Raleway";
+  font-weight: 500;
+  font-style: medium;
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: 0%;
+  color: #ffffff;
+}
+.button_online_workou {
+  padding: 20px 50px;
+  border-radius: 50px;
+  background-color: #00bfb4;
+}
+
+.button_online_workou > a {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 25px;
+  letter-spacing: 0%;
+  color: #ffffff;
+  text-decoration: none;
+}
